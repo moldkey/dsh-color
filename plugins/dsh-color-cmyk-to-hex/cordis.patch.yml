@@ -1,0 +1,4 @@
+# 颜色工具：cmyk to hex
+- insert:
+    - id: dsh-color-cmyk-to-hex
+      name: "dsh-color-cmyk-to-hex"

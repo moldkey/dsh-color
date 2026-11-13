@@ -1,0 +1,4 @@
+# 颜色工具：hsl to rgb
+- insert:
+    - id: dsh-color-hsl-to-rgb
+      name: "dsh-color-hsl-to-rgb"

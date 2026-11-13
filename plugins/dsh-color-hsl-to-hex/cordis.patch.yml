@@ -1,0 +1,4 @@
+# 颜色工具：hsl to hex
+- insert:
+    - id: dsh-color-hsl-to-hex
+      name: "dsh-color-hsl-to-hex"
